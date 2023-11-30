@@ -1,17 +1,3 @@
-### Hi there 👋
-
-👨‍💻 I'm a currently studying to complete a bachelors degree in computer applications. I am a student looking to learn more about the world of software development.
-
-My strengths are my eagerness to learn, creativity and problem solving. The world of software development is where I've chosen to explore and innovate.  
-
-
- - 🌟 I'm an Aspiring Software Developer 
- - 🎨 I'm Passionate about Creativity
- - 🧩 Problem Solver
- - 📚 Lifelong Learner
- - 🌱 I’m currently seeking an Internship
-
-
 ### :hammer_and_wrench: Languages and Tools :  
 
   
@@ -28,6 +14,18 @@ My strengths are my eagerness to learn, creativity and problem solving. The worl
 
 <!--
 **CatarinaK1/CatarinaK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+👨‍💻 I'm a currently studying to complete a bachelors degree in computer applications. I am a student looking to learn more about the world of software development.
+
+My strengths are my eagerness to learn, creativity and problem solving. The world of software development is where I've chosen to explore and innovate.  
+
+
+ - 🌟 I'm an Aspiring Software Developer 
+ - 🎨 I'm Passionate about Creativity
+ - 🧩 Problem Solver
+ - 📚 Lifelong Learner
+ - 🌱 I’m currently seeking an Internship
+
 
 Here are some ideas to get you started:
 
