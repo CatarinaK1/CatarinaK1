@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I'm a computer applications student looking to learn more about the world of software development.
+👨‍💻 I'm a currently studying to complete a bachelors degree in computer applications. I am a student looking to learn more about the world of software development.
 
-My strengths are my eagerness to learn, creativity and problem solving. The world of software development is where I've chosen to explore and innovate.
+My strengths are my eagerness to learn, creativity and problem solving. The world of software development is where I've chosen to explore and innovate.  
 
 
- - 👨‍💻 I’m currently a Computer Applications Student
  - 🌟 I'm an Aspiring Software Developer 
  - 🎨 I'm Passionate about Creativity
  - 🧩 Problem Solver
